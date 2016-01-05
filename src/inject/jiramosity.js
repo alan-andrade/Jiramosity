@@ -1,4 +1,4 @@
-var url = 'https://gist.githubusercontent.com/alan-andrade/e6608fcde025d681dbf3/raw/ticket.md';
+var url = 'https://raw.githubusercontent.com/alan-andrade/Jiramosity/moveTemplate/template.md'
 
 $.fn.exists = function(selector) {
   return selector ? this.find(selector).length : this.length;
