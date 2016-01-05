@@ -1,9 +1,9 @@
 {
   "name": "Jiramosity",
   "author": "Alan Andrade",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
-  "description": "Well oiled Jira for Lumosity",
+  "description": "Standard jira ticket descriptions",
   "homepage_url": "http://lumosity.com",
   "icons": {
     "16": "icons/icon16.png",
